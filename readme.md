@@ -30,6 +30,8 @@ then material  > displacement > displacement and bump
 
 
 Making glass material in principal shader: change the transmission value. Then play with roughness.
+1. roughness - 0, transmission - 1
+2. turn on screen space refractions under settings, then screen space reflections in render properties, also refraction inside
 
 you can use the https://github.com/domlysz/BlenderGIS thing for the terrain.
 
