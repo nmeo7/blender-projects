@@ -149,7 +149,7 @@ shader for the world
 Tell stories, create emotions: even engineering is storytelling.
 Appeal (cognitive easing) makes you feel right at home and generates further interest.
 
-Use basic shapes, quick actions like one click copy and precognitive ux, clear feedback, well defined inputs, emojis and graphics, particles and color, negative space, consistency and contrast, repetition, symmetry, balance, proximity, animation. Keep everything simple, always use a reference and respond to feedback.
+Use basic shapes, quick actions like one click copy and precognitive ux, clear feedback, well defined inputs, emojis and graphics, particles and color, negative space, consistency and contrast, rhythm & repetition, symmetry, balance, proximity, animation. Keep everything simple, always use a reference and respond to feedback.
 Be accessible and inclusive, responsive, use placeholders for the future, recognition over recall, prevent errors rather than fix them. Use breadcrumbs & minimal forms.
 
 Composition: Rule of thirds, leading lines (that converge to the subject), foreground, focal length and aperture, balance (size, contrast, saturation), movement, color grading. The golden ratio all the way.
